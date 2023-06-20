@@ -1,0 +1,125 @@
+/*general*/
+
+* 
+{
+  margin:0;
+  padding: 0;
+}
+
+
+
+body
+{
+    font-family: arial,sans-serif;
+    font-size: 15px;
+    background-image: url(assets/image4.jpg)center;
+}
+h1
+{
+    font-family: 'create round', serif;
+    font-size: 45px;
+    color: #444;
+    margin-bottom: 10px;
+    
+    
+}
+ul
+{
+    list-style: none;
+}
+.wrapper
+{
+    width: 1000px;
+   margin-top: 0 auto;
+    padding: 0 10px;
+}
+.orange
+{
+    color: #ff7a00;
+}
+.black
+{
+    color: #444;
+}
+
+/*header*/
+header 
+{
+    height: 120px;  
+}
+header h1
+{
+    float: left;
+    margin-top: 42px;
+}
+header nav
+{
+    float: right;
+    margin-top: 60px;
+    margin-left: 0px;
+}
+header nav ul li
+{
+    float: left;
+    display: inline-block;
+    margin-right: 60px;
+}
+header nav ul li a
+{
+    text-transform: lowercase;
+    font-weight:100;
+    font-family: sans-serif;
+    
+}
+h2
+{
+    color: #ff7a00;
+    font-size: 40px;
+}
+
+h3
+{
+    color: #444;
+    font-size: 45px;
+}
+
+h4
+{
+    color: #444;
+    font-size: 45px;
+    margin-bottom: 40px;
+}
+p
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h5
+{
+    margin-top: 45px;
+}
+.video
+{
+    padding: 50px;
+}
+h6
+{
+    margin-top: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
